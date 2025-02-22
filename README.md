@@ -23,6 +23,10 @@ Press and hold the middle mouse button. Move your mouse up/down or left/right to
 
 A simple click (press and release) of the middle mouse button behaves normally.
 
+**Demo**
+
+![A crappy demo gif](demo.gif)
+
 ## Notes
 
 **1. Compatibility**
