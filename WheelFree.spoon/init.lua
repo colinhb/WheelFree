@@ -5,7 +5,7 @@ local obj = {}
 obj.name = "WheelFree"
 obj.version = "0.1"
 obj.author = "C.H. Bortner <colin@chb.xyz>"
-obj.license = "MIT - https://opensource.org/licenses/MIT"
+obj.license = "BSD-2-Clause - https://opensource.org/license/bsd-2-clause"
 -- Optional: obj.homepage = "https://github.com/colinhb/WheelFree.spoon"
 
 -- Configuration variables
